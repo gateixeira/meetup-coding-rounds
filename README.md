@@ -13,6 +13,13 @@ Come join us. It's free!
 - **When**: every second Wednesday, 6 - 7:30 pm
 - **Where**: [SpinLab](https://g.page/spinlableipzig)
 
+## Past events
+
+### 31.08
+
+- **Attendance**: @gateixeira @belcosta @@superBertBerg @abel
+- **Problems covered**: [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) & [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) (unfinished)
+
 ## License
 
 [MIT](LICENSE)  
